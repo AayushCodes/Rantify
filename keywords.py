@@ -12,5 +12,6 @@ for w in word_tokens:
     if w not in stop_words:
         filtered_sentence.append(w)
 filtered_sentence = set(filtered_sentence)
-print((filtered_sentence))
-print(s.polarity_scores(sample))
+scores = s.polarity_scores(' '.join(filtered_sentence))
+print('depression =', scores['neg'] + scores['neu']//2)
+print('heppy =', scores['pos'])
