@@ -5,3 +5,4 @@ We aim to provide people with a platform where they can open up, relax and vent 
 
 Our users will be logging in to the app to rant out. They can log in so that we can save their history with us. A form will be filled by them for us to know about their choices better. After analyzing their rant our app would be suggesting them a playlist especially made for them keeping in mind their current mental state. We will be maintaining a log of these rants, just like a diary entry and allow people to read these entries(with the user’s permission) anonymously.
 
+![alt text](logo.png)
