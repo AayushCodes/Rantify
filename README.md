@@ -1,9 +1,9 @@
 # Rantify
 Team Members - <br />
-Aakash Singh
-Aayush Gupta
-Akash Sinha
-Parkhi Saini
+Aakash Singh <br />
+Aayush Gupta <br />
+Akash Sinha <br />
+Parkhi Saini <br />
 Yash Chowdhury <br />
 Keeping yourself mentally healthy is the need of the hour. With pressure levels higher than ever, we need to have a place to express ourselves and vent it all out as and when we need to. “Ranting” has been scientifically proven to improve your mood and even improve efficiency. Music has been known, time and time again, to improve our mood and help us stay happy. Keeping in that same theme, we combined these two and created Rantify.
 
