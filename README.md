@@ -15,8 +15,5 @@ Our users will be logging in to the app to rant out. They can log in so that we 
 <br />
 <br />
 <br />
-<<<<<<< HEAD
-![alt text](logo.png)
-=======
+
 ![PP](logo.png)
->>>>>>> 03fa7df974a790fb3757fbef8db3ff7de3867de1
