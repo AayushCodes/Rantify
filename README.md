@@ -11,7 +11,11 @@ Keeping yourself mentally healthy is the need of the hour. With pressure levels 
 <br />
 We aim to provide people with a platform where they can open up, relax and vent out their hectic lifestyles. By using these rants, we determine their current mental state and provide them with music playlists to help them loosen up and discover new music as well. We also provide them with blogs and article based on their mood so that they can connect more freely with what they are feeling.
 <br />
+<<<<<<< HEAD
 Our users will be logging in to the app to rant out. They can log in so that we can save their history with us. A form will be filled by them for us to know about their choices better. After analyzing their rant our app would be suggesting them a playlist especially made for them keeping in mind their current mental state. We will be maintaining a log of these rants, just like a diary entry and allow people to read these entries(with the user’s permission) anonymously. 
+=======
+Our users will be logging in to the app to rant out. They can log in so that we can save their history with us. A form will be filled by them for us to know about their choices better. After analyzing their rant our app would be suggesting them a playlist especially made for them keeping in mind their current mental state. We will be maintaining a log of these rants and the playlists, just like a diary entry and allow people to read these entries(with the user’s permission) anonymously. 
+>>>>>>> 1b176a3e3d7a5688e9bc9f64b5f53b9b6a4b87d8
 <br />
 <br />
 <br />
