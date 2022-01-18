@@ -1,0 +1,5 @@
+textblob
+yake
+nltk.sentiment
+nltknltk.corpus
+spacy
