@@ -2,5 +2,4 @@ textblob
 yake
 nltk.sentiment
 nltknltk.corpus
-spacy
 language_tool_python
