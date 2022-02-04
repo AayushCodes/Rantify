@@ -12,17 +12,14 @@ custom_kw_extractor = yake.KeywordExtractor(lan=language, n=max_ngram_size, dedu
 def rant_check(i):
     i = tool.correct(i)
     keywords = custom_kw_extractor.extract_keywords(i)
-    pp = []
+    sample = []
     for kw in keywords:
-        pp.append(kw[0])
+        sample.append(kw[0])
     s = SentimentIntensityAnalyzer()
-    scores = s.polarity_scores(' '.join(pp))
-    print(i)
-    #print('depression =', scores['neg'] + 0.000001)
-    #print('heppy =', scores['pos'] + 0.000001)
-    heppy = scores['pos'] + 0.00000001
-    sed = scores['neg'] + 0.00000001
-    if heppy > sed:
-        print('heppy')
+    scores = s.polarity_scores(' '.join(sample))
+    pos = scores['pos'] + 0.00000001
+    neg = scores['neg'] + 0.00000001
+    if pos > neg:
+        return 1
     else:
-        print('sed')
+        return 0
